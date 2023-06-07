@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/MainGame.umap"
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/MainGame.umap",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Blueprints/Items/Master/BP_Item.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Blueprints/Items/Master/BP_Item_Breakable.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Blueprints/Items/BP_Item_Breakable_Cube.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Blueprints/Items/BP_Item_Cube.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Blueprints/Objects/BP_Object_Stone.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/CubeGridToolOutput_0D5AD6C8.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/CubeGridToolOutput_18C50869.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/CubeGridToolOutput_389BDD49.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/CubeGridToolOutput_540A8CB2.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/CubeGridToolOutput_D7793C53.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Assets/Meshes/SM_Shape_Cube.uasset"
 			]
 		}
 	]
