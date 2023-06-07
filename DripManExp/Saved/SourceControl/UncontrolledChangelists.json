@@ -16,7 +16,16 @@
 				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/CubeGridToolOutput_389BDD49.uasset",
 				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/CubeGridToolOutput_540A8CB2.uasset",
 				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/CubeGridToolOutput_D7793C53.uasset",
-				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Assets/Meshes/SM_Shape_Cube.uasset"
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Assets/Meshes/SM_Shape_Cube.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Assets/Materials/Glow/MI_Glow_On.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Blueprints/Player/BP_FPS_Character.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Assets/Materials/Glow/MI_Glow_Off1.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/MainGame_BuiltData.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/Combined_87D2EC03.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/_GENERATED/travi/CubeGridToolOutput_BF986319.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Assets/Materials/Master/M_Glow.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Assets/Materials/Glow/MI_Glow_Blue.uasset",
+				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Assets/Materials/Glow/MI_Glow_Blue1.uasset"
 			]
 		}
 	]
