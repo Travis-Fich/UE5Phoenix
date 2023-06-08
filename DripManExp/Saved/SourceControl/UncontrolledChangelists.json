@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/REPO/UE5repo/DripManExp/Content/Maps/MainGame.umap",
 				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/Maps/MainGame.umap",
 				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Blueprints/Items/Master/BP_Item.uasset",
 				"C:/REPOS/UnrealProjects/UE5projRepo/DripManExp/Content/InteractionSystem/Blueprints/Items/Master/BP_Item_Breakable.uasset",
